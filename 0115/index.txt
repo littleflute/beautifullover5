@@ -1,0 +1,11 @@
+ 
+Personal Author: Minnick, Chris,
+Title All: Coding with JavaScript for dummies / by Chris Minnick and Eva Holland. --For dummies.
+Author: Minnick, Chris, Holland, Eva,
+Local Call Number: 005.2762
+ISBN: 9781119056072
+Physical Description: xii, 344 pages : illustrations ; 24 cm
+Series: For dummies --For dummies.
+Contents: Part I: Getting started with JavaScript. The world's most misunderstood programming language ; Writing your first JavaScript program ; Working with variables ; Understanding arrays ; Working with operators, expressions, and statements ; Getting into the flow with loops and branches -- Part II: Organizing your JavaScript. Getting functional ; Making and using objects -- Part III: JavaScript on the web. Controlling the browser with the window object ; Manipulating documents with the DOM ; Using events in JavaScript ; Integrating input and output ; Working with CSS and graphics -- Part IV. Beyond the basics. Searching with regular expressions ; Understanding callbacks and closures ; Embracing AJAX and JSON -- Part V. Javascript and HTML5. HTML5 APIs ; jQuery -- Part VI: The part of tens. Ten JavaScript frameworks and libraries to learn next ; Ten common Javascript bugs and how to avoid them ; Ten online tools to help you write better.
+Subject Term:
+JavaScript (Computer program language)
