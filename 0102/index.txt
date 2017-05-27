@@ -1,0 +1,17 @@
+
+Personal Author: Ferguson, Russ.
+Title All: Beginning JavaScript with DOM scripting and Ajax / Russ Ferguson, Christian Heilmann. Expert's voice in Web development.
+Author: Ferguson, Russ. Heilmann, Christian.
+Local Call Number: 006.76 JAVASCRIPT
+ISBN: 9781430250920
+Edition: 2nd ed.
+Publication Information: California : Apress, c2013
+Physical Description: xxi, 366 p. : ill. ; 24 cm.
+Series: The expert's voice in web development Expert's voice in Web development.
+Contents: Getting started with JavaScript -- Data and decisions -- From DHTML to DOM scripting -- HTML and JavaScript -- Presentation and Behavior (CSS and Event Handling -- Common uses of JavaScript: images and windows -- JavaScript and user interaction: navigation and forms -- Back-end interaction with Ajax and Node.js -- Data validation techniques -- Modern JavaScript case study: a dynamic gallery -- Using third-party JavaScript.
+Subject Term:
+JavaScript (Computer program language)
+Document Object Model (Web site development technology)
+Ajax (Web site development technology)
+Web site development.
+OCLC: 827972170
