@@ -1,0 +1,13 @@
+
+Personal Author: Burd, Barry A.
+Title All: Java for dummies / by Barry Burd, PhD. --For dummies.
+Author: Burd, Barry A.
+Local Call Number: 006.76 JAVA
+ISBN: 9781118407806
+Edition: 6th edition.
+Physical Description: xii, 414 pages : illustrations ; 24 cm.
+Series: For dummies --For dummies.
+Subject Term:
+Java (Computer program language)
+Internet programming.
+OCLC: 868079443
